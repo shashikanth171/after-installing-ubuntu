@@ -144,5 +144,11 @@ sudo apt-get install gedit
 # https://aria2.github.io/
 sudo apt-get install aria2
 
-
-
+# 17
+# firefox nightly
+# https://github.com/phw/peek
+echo | sudo add-apt-repository ppa:ubuntu-mozilla-daily/ppa
+sudo apt update
+sudo apt-get install firefox-trunk
+#to open it using command "nightly"
+sudo ln -s /usr/bin/firefox-trunk /usr/bin/nightly
