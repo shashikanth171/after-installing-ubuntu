@@ -152,3 +152,6 @@ sudo apt update
 sudo apt-get install firefox-trunk
 #to open it using command "nightly"
 sudo ln -s /usr/bin/firefox-trunk /usr/bin/nightly
+
+#18
+sudo apt-get install openssh-server
