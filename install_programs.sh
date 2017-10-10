@@ -155,3 +155,11 @@ sudo ln -s /usr/bin/firefox-trunk /usr/bin/nightly
 
 #18
 sudo apt-get install openssh-server
+
+#19
+# Persepolis Download Manager
+# https://persepolisdm.github.io/
+echo | sudo add-apt-repository ppa:persepolis/ppa
+sudo apt update
+sudo apt install persepolis
+
