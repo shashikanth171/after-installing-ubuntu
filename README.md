@@ -10,40 +10,40 @@ Present thought is to have a shell script file with steps of installing various 
 
 Raise issues to ask me to add the softwares that you want, in the file.
 
-##Currently supported List of software:
+## Currently supported List of software:
 
-###Utlities
+### Utlities
 1. grub-customiser
 
-###Media Downloaders
+### Media Downloaders
 1. youtube-dlg
 
-###Media Players
+### Media Players
 1. vlc
 2. Kodi
 
-###Media Editors
+### Media Editors
 1. Handbrake
 2. OBS Studio (Open Broadcaster Software)
 3. Peek (Make GIFs)
 
-###Chat Clients
+### Chat Clients
 1. Telegram
 2. Franz
 
-###Downloader
+### Downloader
 1. aria2c
 2. Persepolis Download Manager
 
-###IDE & Editors
+### IDE & Editors
 1. Netbeans
 2. Atom
 3. gedit
 
-###Torrent Clients
+### Torrent Clients
 1. Qbittorrent
 
-###Browsers
+### Browsers
 1. Google Chrome
 2. Firefox Nightly
  
