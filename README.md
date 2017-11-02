@@ -30,6 +30,7 @@ Raise issues to ask me to add the softwares that you want, in the file.
 ### Chat Clients
 1. Telegram
 2. Franz
+3. Signal
 
 ### Downloader
 1. aria2c
