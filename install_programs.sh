@@ -180,6 +180,10 @@ echo | sudo add-apt-repository ppa:plushuang-tw/uget-stable
 sudo apt update
 sudo apt install uget
 
+#22 apt-fast https://code.launchpad.net/~apt-fast/+archive/ubuntu/stable
+echo | sudo add-apt-repository ppa:apt-fast/stable
+sudo apt-get update
+
 #23 bum https://launchpad.net/bum
 sudo apt install bum
 
