@@ -174,3 +174,12 @@ sudo apt update && sudo apt install signal-desktop
 #21 Indicator Stickynotes
 echo | sudo apt-add-repository ppa:umang/indicator-stickynotes
 sudo apt-get update && sudo apt-get install indicator-stickynotes
+
+#22 uget http://ugetdm.com/downloads-ubuntu
+echo | sudo add-apt-repository ppa:plushuang-tw/uget-stable
+sudo apt update
+sudo apt install uget
+
+#23 bum https://launchpad.net/bum
+sudo apt install bum
+
