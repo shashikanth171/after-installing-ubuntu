@@ -188,3 +188,8 @@ sudo apt install apt-fast
 #24 bum https://launchpad.net/bum
 sudo apt install bum
 
+#25 indicator sticknotes
+sudo apt-add-repository ppa:umang/indicator-stickynotes
+sudo apt-get update
+sudo apt-get install indicator-stickynotes
+
