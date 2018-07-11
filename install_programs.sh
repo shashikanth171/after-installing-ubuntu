@@ -193,3 +193,12 @@ sudo apt-add-repository ppa:umang/indicator-stickynotes
 sudo apt-get update
 sudo apt-get install indicator-stickynotes
 
+#26 Owncloud Client
+sudo sh -c "echo 'deb http://download.opensuse.org/repositories/isv:/ownCloud:/desktop/Ubuntu_16.04/ /' > /etc/apt/sources.list.d/isv:ownCloud:desktop.list"
+sudo apt-get update
+sudo apt-get install owncloud-client
+
+#27 KeepassXC
+sudo add-apt-repository ppa:phoerious/keepassxc
+sudo apt-get update
+sudo apt-get install keepassxc
